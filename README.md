@@ -10,10 +10,11 @@ I currently program industrial automation components using [IEC 61131-3 language
 
 ### What I'm currently focusing on:
 
-I'm currently working with Node for JavaScript backend development
+I'm currently working with Node for JavaScript backend development.
+
+## Personal info:
 
 #### My current portfolio page is hosted right [here](https://cliff-rosenberg.github.io/08-Portfolio-updated/) on Github Pages.
----
 
 ### You can contact me at:  
 
@@ -22,7 +23,7 @@ I'm currently working with Node for JavaScript backend development
 
 ---
   
-### This is the (growing!) list of languges I have written applications in-
+### This is the (growing!) list of languges I have written applications in:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
