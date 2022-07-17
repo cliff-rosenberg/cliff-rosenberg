@@ -19,7 +19,7 @@ I'm currently working with Node for JavaScript backend development.
 ### You can contact me at:  
 
 [![iCloud email](https://img.shields.io/badge/-iCloud%20email-3693F3?style=for-the-badge&logo=icloud&logoColor=white)](mailto:cliff459@icloud.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/cliff-rosenberg-az/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/cliff-rosenberg-az)
 
 ---
   
