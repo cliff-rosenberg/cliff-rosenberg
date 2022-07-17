@@ -3,7 +3,7 @@ cliff-rosenberg/cliff-rosenberg is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-![logo](./maui-scenery.png)
+![Maui Scenery](./maui-scenery.png)
 # Hello, I’m Cliff!
 
 I currently program industrial automation components using [IEC 61131-3 languages](https://webstore.iec.ch/publication/4552), and I am now studying and learning Full Stack web development methods through [The University of Arizona](https://bootcamp.ce.arizona.edu/coding/).
