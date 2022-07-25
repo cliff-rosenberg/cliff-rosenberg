@@ -10,7 +10,7 @@ I currently program industrial automation components using [IEC 61131-3 language
 
 ### What I'm currently focusing on:
 
-I'm currently working with Node for JavaScript backend development.
+I'm currently working with MongoDB and React for JavaScript application development.
 
 ## Personal info:
 
