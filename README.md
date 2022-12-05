@@ -6,11 +6,11 @@ You can click the Preview link to take a look at your changes.
 ![Maui Scenery](./maui-scenery.png)
 # Hello, I’m Cliff!
 
-I currently program industrial automation components using [IEC 61131-3 languages](https://webstore.iec.ch/publication/4552), and I am now studying and learning Full Stack web development methods through [The University of Arizona](https://bootcamp.ce.arizona.edu/coding/).
+I currently program industrial automation components using [IEC 61131-3 languages](https://webstore.iec.ch/publication/4552), and I completed my course for Full Stack web development methods through [The University of Arizona](https://bootcamp.ce.arizona.edu/coding/) in August of 2022.
 
 ### What I'm currently focusing on:
 
-I'm currently working with MongoDB and React for JavaScript application development.
+I'm currently working on developing an IoT application which connects an embedded microprocessor to a web API backend for a personal home automation project.
 
 ## Personal info:
 
