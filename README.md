@@ -39,6 +39,7 @@ I'm currently working on developing an IoT application which connects an embedde
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?&style=for-the-badge&logo=Proxmox&logoColor=white)
 
 ### These are some of my favorite applications for development:
